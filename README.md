@@ -76,6 +76,12 @@ Inspired by the scene from *Lighter and the Princess* where **Li Xun** creates a
 
 ---
 
+## Preview
+
+Live on Vercel: https://pulsing-heart-animation-huaw.vercel.app/
+
+---
+
 ## 📝 License
 
 Open-source for personal and educational use.
