@@ -76,13 +76,6 @@ Inspired by the scene from *Lighter and the Princess* where **Li Xun** creates a
 
 ---
 
-## 📸 Preview
-
-Live on Vercel: 
-*Soft pink heart with pulsing animation*
-
----
-
 ## 📝 License
 
 Open-source for personal and educational use.
