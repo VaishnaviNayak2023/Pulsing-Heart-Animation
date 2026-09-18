@@ -5,6 +5,7 @@ A visually stunning, interactive pulsing heart animation inspired by the drama *
 This project recreates the iconic scene where **Li Xun** makes a heart in coding class, combining neon particle effects and a soft CSS heart with a toggleable heartbeat.
 
 ---
+Link: https://pulsingheart.netlify.app/
 
 ## 🌟 Features
 
